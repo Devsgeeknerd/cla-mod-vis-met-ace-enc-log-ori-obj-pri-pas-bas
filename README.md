@@ -1,6 +1,10 @@
 <!-- TITLE -->
 # Criar um Rodapé Fixo
 
+* Criar uma página com varios textos.
+* Ter uma barra de rolagem.
+* Ter um rodapé fixo.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
